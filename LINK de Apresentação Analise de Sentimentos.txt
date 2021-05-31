@@ -1,0 +1,15 @@
+Apresentação do projeto sobre análise de sentimentos em redes sociais:
+
+
+LINK:	https://www.youtube.com/watch?v=B_TU_ZRYKao
+
+
+Alunos envolvidos:	Jhônata Vinícius da Silva Negreiros
+			Theo Moura Portela Sousa
+			Joab da Silva Maia
+
+Disciplina: Inteligêncial Artificial
+
+Curso: Engenharia de computação, IFPB - Campus Campina Grande
+
+Data: 14 de Novembro de 2020
